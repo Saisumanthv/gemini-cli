@@ -182,6 +182,7 @@ For Google Workspace accounts and other authentication methods, see the
 
 #### Start in current directory
 
+
 ```bash
 gemini
 ```
